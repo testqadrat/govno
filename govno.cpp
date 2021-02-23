@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "govno"<<endl;
+	cout << "test"<<endl;
 	system("pause");
 }
