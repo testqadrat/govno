@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  isrpo.vcxproj -> E:\git\isrpo\Debug\isrpo.exe
+e:\git\isrpo\isrpo\main.cpp(7): error C2065: out: необъявленный идентификатор
